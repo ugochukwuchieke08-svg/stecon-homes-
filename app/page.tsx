@@ -889,7 +889,7 @@ return (
     <div className="border-t border-white/10">
       <div className="mx-auto flex max-w-[1440px] flex-col gap-3 px-5 py-6 text-[10px] text-white/45 sm:px-8 md:flex-row md:items-center md:justify-between lg:px-16">
         <p>
-          © {new Date().getFullYear()} Stecon Homes. All rights reserved.
+          © 2026 Stecon Homes. All rights reserved.
         </p>
         <p>Thoughtful spaces. Better living.</p>
       </div>
