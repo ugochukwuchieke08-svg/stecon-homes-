@@ -171,7 +171,7 @@ export default function AdminLoginPage() {
         </div>
 
         <p className="mt-6 text-center text-xs text-[#8a8b81]">
-          © {new Date().getFullYear()} Stecon Homes
+          © 2026 Stecon Homes. All rights reserved.
         </p>
       </div>
     </main>

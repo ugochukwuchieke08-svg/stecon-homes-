@@ -445,7 +445,7 @@ export default function PropertyDetails({
       </section>
 
       <footer className="bg-[#20251f] px-5 py-8 text-center text-xs text-white/55">
-        © {new Date().getFullYear()} Stecon Homes. All rights reserved.
+       © 2026 Stecon Homes. All rights reserved.
       </footer>
     </main>
   );
